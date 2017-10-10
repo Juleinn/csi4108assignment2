@@ -1,3 +1,8 @@
+# CSI4108 - Assignment #2
+# Anton Claes, 2017
+# file perm.py
+# script that allows permutation of bits in a list of bits
+# for semi-automation of DES execution for one round
 plaintext = "11100110111001111010100101110010"
 
 keymatrix = []
